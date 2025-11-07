@@ -74,7 +74,7 @@ This intelligent pre-processing system enhances OCR performance on real-world, c
 
 ---
 
-## ** Implementation Details**
+## Implementation Details
 
 - **Frameworks:** TensorFlow/Keras, OpenCV, EasyOCR  
 - **Dataset:** [Blur Dataset (Kaggle)](https://www.kaggle.com/datasets/balabaskar/blur-dataset)  
@@ -84,13 +84,11 @@ This intelligent pre-processing system enhances OCR performance on real-world, c
 
 ---
 
-## **Example Output**
+## Example Output
 
 | Stage | Description | Image |
 |:------|:-------------|:------|
-| Input | Skewed & blurred document | 🖼 Original Image |
-| Corrected | Flattened & contrast-enhanced | 🖼 Processed Image |
-| OCR Result | Accurate, readable text | 🖹 Extracted Text |
+| Input | Skewed & blurred document | Original Image |
+| Corrected | Flattened & contrast-enhanced | Processed Image |
+| OCR Result | Accurate, readable text | Extracted Text |
 
-# Run the Jupyter Notebook
-jupyter notebook text-detection.ipynb
