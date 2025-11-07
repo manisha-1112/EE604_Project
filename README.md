@@ -1,5 +1,5 @@
 
-# ** Text Detection System **
+#  Text Detection System 
 
 **Contributors:**  
 - Harsh Kumar (220428)  
@@ -33,7 +33,7 @@ This intelligent pre-processing system enhances OCR performance on real-world, c
 
 ---
 
-## **Pipeline Overview**
+## Pipeline Overview
 
 1. **Document Quality Classification**
    - Uses fine-tuned **MobileNetV2** to classify images as _clean_ or _blurred_.
